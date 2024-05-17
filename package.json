@@ -1,0 +1,20 @@
+{
+  "name": "credence",
+  "version": "1.0.0",
+  "description": "A nodejs Restful api for credence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Preetham Jonpelly",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "mongoose": "^8.3.5"
+  }
+}
